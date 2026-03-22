@@ -29,9 +29,9 @@ More at [linkedin.com/in/eduphp](https://linkedin.com/in/eduphp)
 
 ## Tech I use daily
 
-**Backend:** PHP 7+ / Laravel (Livewire, Filament, Nova, Horizon, Forge), REST APIs, microservices
+**Backend:** PHP 8.4 / Laravel (Livewire, Filament, Nova, Horizon, Forge), REST APIs, microservices
 
-**Frontend:** Vue.js, Alpine.js, Inertia.js, Tailwind CSS
+**Frontend:** React, Vue, Alpine, Inertia, Tailwind CSS
 
 **AI & Automation:** n8n, OpenAI API, RAG architectures, LLM integration, TypeScript
 
@@ -39,7 +39,7 @@ More at [linkedin.com/in/eduphp](https://linkedin.com/in/eduphp)
 
 **Payments:** Stripe, PayPal (including split payouts), 12+ gateways. I've handled $3M+ in transaction volume and ran incident response on payment flows processing over $140k.
 
-**Testing & DevOps:** PHPUnit, Pest, TDD, Docker, GitHub Actions, AWS S3
+**Testing & DevOps:** Jest, vitest, PHPUnit, Pest, TDD, Docker, GitHub Actions, AWS S3
 
 ## Things I've built that I'm proud of
 
