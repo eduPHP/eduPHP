@@ -1,94 +1,63 @@
-# Eduardo Fleck Dalla Vecchia
-**Full Stack Developer (Laravel Livewire Node Vue React Rust)**
+# Hey, I'm Eduardo Dalla Vecchia
 
-- [rdo.blog.br](http://rdo.blog.br)
-- [github.com/eduPHP](http://github.com/eduPHP)
-- [linkedin.com/in/edu-dev](http://linkedin.com/in/edu-dev)
-- Itapema-SC, Brazil
+Senior Full Stack Engineer. 7+ years shipping Laravel apps, payment platforms, and AI-powered systems.
 
----
+I build things that handle real money and real traffic. I also write about how developers actually use AI tools, because most of us are doing it wrong in predictable, fixable ways.
 
-## Personal Statement
-Working as a developer since 2017, I have built and maintained several highly scalable sales platforms, integrating a variety of payment gateways and securely processing more than 3 million dollars in transactions. Always staying updated with the latest technologies, I enjoy applying TDD, BDD, DDD, modularization/microservices, and clean code to create impactful and maintainable software.
+Based in Brazil (UTC-3). Open to relocation in Europe (Ireland, Germany, Spain, Italy) and remote roles worldwide.
 
----
+## What I'm working on
 
-## Work Experience
+**Skyborn Information** - my company, where I design automation pipelines for clients using n8n, TypeScript, and the Meta API, with OpenAI models and RAG architectures doing the heavy lifting.
 
-### Sr. Fullstack Engineer
-**s90 Technologies**  
-*May 2022 - Present - San Francisco, CA*  
-- Build and maintain TALL stack applications.
-- Develop and maintain features on applications for energy suppliers, water treatment, tools calibration, and insurance companies.
-- **Techs:** Tailwind, Alpine, Laravel, Livewire.
+**AIRes Optimizer** - a resume optimization SaaS built with Laravel, Inertia.js, Vue.js, and Stripe. It has a custom rich-text editor I built from a raw `contenteditable` element because existing editors couldn't do what I needed.
 
-### Sr. Backend Engineer
-**Atlas Technologies**  
-*December 2021 - April 2022 - Pelotas-RS, Brazil*  
-- Build and maintain Laravel applications and microservices.
-- Create and improve automated tests.
-- Review and deploy code to production.
-- **Techs:** Laravel, PHP, Vue, Docker, Jira, Git.
+**Nuance** - an AI-generated text detector that uses statistical pattern recognition and mathematical modeling. Yes, I build AI tools and also build tools to detect AI. The irony is not lost on me.
 
-### Project Leader
-**BuilderAll**  
-*April 2021 - December 2021 - Orlando, FL*  
-- Managed and mentored a team of 5, focusing on performance, documentation, and client support for the company's checkout tool.
+## What I write about
 
-### Fullstack Developer
-**BuilderAll**  
-*February 2018 - April 2021 - Orlando, FL*  
-- Built a payment platform integrating 12 payment gateways including Stripe, PayPal, Payfast, and others.
-- Developed an advanced account/payments admin management tool using REST and Vue.js.
-- **Techs:** Laravel, PHP, Vue, Tailwind CSS, Typescript, Websockets, Queues.
+I'm building a LinkedIn presence around AI tooling for developers. Not tips-and-tricks content. Articles with a point of view.
 
-### Backend Developer
-**BuilderAll**  
-*July 2017 - February 2018 - Orlando, FL*  
-- Built the backend for a complete marketplace tool using Laravel, fully covered by automated tests.
-- Implemented PayPal split payments for commission distribution on sales.
-- **Techs:** Laravel, PHP, Angular, Material CSS, PayPal.
+My core thesis: AI tools are not overhyped. But most developers, from juniors to seniors, use them wrong. Beginners expect magic. Senior devs skip context management and then blame the tool when output quality tanks.
 
-### Tech Lead
-**Base Informática**  
-*March 2014 - July 2017 - Soledade-RS, Brazil*
+Recent articles:
+- **"AI Wrote It. But Did You Read It?"** - the confidence problem with AI-generated code and why senior experience is a multiplier, not an obsolete skill
+- **"Helpful Assistants LIE. Honest Assistants SHIP."** - why the "helpful assistant" persona in system prompts causes models to prioritize output over honesty
 
-### Support Analyst
-**Coagrisol NET**  
-*July 2011 - August 2013 - Soledade-RS, Brazil*
+More at [linkedin.com/in/eduphp](https://linkedin.com/in/eduphp)
 
----
+## Tech I use daily
 
-## Education and Certificates
+**Backend:** PHP 7+ / Laravel (Livewire, Filament, Nova, Horizon, Forge), REST APIs, microservices
 
-- **2024:** Many Patterns and Software Architecture related courses on Laracasts
-- **2021:** Many Patterns and Software Architecture related courses on Alura
-- **2020:** Bootcamp in the ecosystem of Node.js, ReactJS, and React Native - Rocketseat
-- **2015 - 2018:** Bachelor in Systems Analysis and Development - University of Passo Fundo (UPF)
+**Frontend:** Vue.js, Alpine.js, Inertia.js, Tailwind CSS
 
----
+**AI & Automation:** n8n, OpenAI API, RAG architectures, LLM integration, TypeScript
 
-## Technical Skills
+**Databases:** MySQL, PostgreSQL, Supabase, Redis, MongoDB
 
-- **(2 years):** Tailwind, Alpine, Laravel, Livewire
-- **(4 years):** Docker, Bash scripting
-- **(6+ years):** Vue, ES6, Webpack, Git
-- **(7+ years):** Laravel, TDD, BDD, DDD
-- **(9+ years):** PHP, MySQL
-- **Other:** Java, Spring, Clojure, Rust
+**Payments:** Stripe, PayPal (including split payouts), 12+ gateways. I've handled $3M+ in transaction volume and ran incident response on payment flows processing over $140k.
 
----
+**Testing & DevOps:** PHPUnit, Pest, TDD, Docker, GitHub Actions, AWS S3
 
-## Languages
+## Things I've built that I'm proud of
 
-- **English:** Advanced C1 (EF SET)
-- **Portuguese:** Native
+- A multi-gateway payment platform processing $3M+ in its first year at Builderall
+- An inline checkout widget that replaced static redirects and drove a 30% uplift in conversions
+- Commission-calculation tools used by 1,000+ businesses, processing millions of rows in real time
+- A Laravel 8 to 11 upgrade (plus Livewire 2.5 to 3) with zero regressions
+- Internal tooling standardization with FilamentPHP that cut development time by ~70%
 
----
+## Open source
 
-## Side Projects
+- **[Easily](https://github.com/eduPHP)** - a Docker-based environment management tool
+- **Simple Deploy** - Bash/n8n/Redis pipeline for zero-downtime deployments
+- Regular contributor to **FilamentPHP** and related Laravel packages
 
-- **Laravel ecosystem contributor**
-- **[Easily](https://github.com/eduPHP/easily):** A Docker-based environment management tool
-- **[Biblioteka](https://github.com/eduPHP/biblioteka):** A library management tool made for my bachelor’s integrative project built with Laravel and Vue.js
-- **[RSS News Aggregator](https://github.com/eduPHP/fav):** A study project built with Next.js, TailwindCSS, and MongoDB
+## Let's talk
+
+- **Email:** eduphp83@gmail.com
+- **LinkedIn:** [linkedin.com/in/eduphp](https://linkedin.com/in/eduphp)
+- **GitHub:** You're already here
+
+I'm looking for senior/lead roles where I can work on Laravel backends, AI integration, or payment systems. Remote preferred. Open to relocation in the EU with visa sponsorship.
