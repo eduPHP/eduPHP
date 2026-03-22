@@ -21,7 +21,8 @@ I'm building a LinkedIn presence around AI tooling for developers. Not tips-and-
 My core thesis: AI tools are not overhyped. But most developers, from juniors to seniors, use them wrong. Beginners expect magic. Senior devs skip context management and then blame the tool when output quality tanks.
 
 Recent articles:
-- **"AI Wrote It. But Did You Read It?"** - the confidence problem with AI-generated code and why senior experience is a multiplier, not an obsolete skill
+- **"Did your stakeholders understand what they approved?"** - how communication should be treated as a skill that should be constantly exercised to avoid being misunderstood
+- **"AI Won't Take Your Job. Bad Reviewing Might! "** - the confidence problem with AI-generated code and why senior experience is a multiplier, not an obsolete skill
 - **"Helpful Assistants LIE. Honest Assistants SHIP."** - why the "helpful assistant" persona in system prompts causes models to prioritize output over honesty
 
 More at [linkedin.com/in/eduphp](https://linkedin.com/in/eduphp)
